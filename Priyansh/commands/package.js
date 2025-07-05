@@ -116,4 +116,4 @@ var callback = () => api.sendMessage({body:`
 	}
 }.`,attachment: fs.createReadStream(__dirname + "/cache/ken.png")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/ken.png")); 
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+"/cache/ken.png")).on("close",() => callback());
-   };
+   };   };
