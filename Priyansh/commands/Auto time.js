@@ -84,9 +84,9 @@ const sendHourlyMessages = async (api) => {
     const randomImage = imgLinks[Math.floor(Math.random() * imgLinks.length)];
 
     const message = 
-  `❖━━━━━━━━━━━━━━━━━━━━━━❖\n` +
+  `❖━━━━━━━━━━━━━━━❖\n` +
   `        𝐑𝐃𝐗 𝐓𝐈𝐌𝐄 𝐙𝐎𝐍𝐄        \n` +
-  `❖━━━━━━━━━━━━━━━━━━━━━━❖\n\n` +
+  `❖━━━━━━━━━━━━━━━❖\n\n` +
 
   `⏰ 𝗧𝗶𝗺𝗲 ➤ ${hour12}:00 ${ampm}\n` +
   `📅 𝗗𝗮𝘁𝗲 ➤ ${date} ✦ ${month} ✦ ${year}\n` +
@@ -95,9 +95,9 @@ const sendHourlyMessages = async (api) => {
   `➤⚘ عَرض کِیا ہے، اِس موقع پر ⚘➤\n` +
   `${randomShayari}\n\n` +
 
-  `❖━━━━━━━━━━━━━━━━━━━━━━❖\n` +
+  `❖━━━━━━━━━━━━━━━❖\n` +
   `       »「⸙」𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗「⸙」«\n` +
-  `❖━━━━━━━━━━━━━━━━━━━━━━❖`;
+  `❖━━━━━━━━━━━━━━━❖`;
 
     const threadList = await api.getThreadList(100, null, ["INBOX"]);
     const activeThreads = threadList.filter(thread => thread.isSubscribed);
