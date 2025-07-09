@@ -65,7 +65,7 @@ module.exports.run = async ({ api, event, args, Users, Threads, Currencies }) =>
     () => {
       // Send the DP after the message
       var callback = () => api.sendMessage(
-        { body: `𝗠𝗔𝗗𝗘 𝗕𝗬 𝗥𝗗𝗫: ${link.length} 𝗗𝗣𝘀 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘!`, attachment: fs.createReadStream(__dirname + "/cache/1.jpeg") },
+        { body: `𝙈𝘼𝘿𝙀 𝘽𝙔 𝙏𝙊𝙈𝘼 𝘽𝙍𝘼𝙉𝘿: ${link.length} 𝗗𝗣𝘀 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘!`, attachment: fs.createReadStream(__dirname + "/cache/1.jpeg") },
         event.threadID,
         () => fs.unlinkSync(__dirname + "/cache/1.jpeg"),
         event.messageID
