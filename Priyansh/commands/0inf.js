@@ -35,16 +35,16 @@ var callback = () => api.sendMessage({body:`╭━☆━╮
 🔥𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 シ︎🔥☞︎︎︎☜︎︎︎✰ ℤ𝔸̃𝕀̨ℕ̃ ℙℝ𝕀̨ℕ̃ℂ̧𝔼́💔🥀
 ══════════════════
 
-🫰♕︎B̸O̸T̸ A̸D̸M̸I̸N̸ F̸A̸C̸E̸B̸O̸O̸K̸ A̸C̸C̸O̸U̸N̸T̸ L̸I̸N̸K̸ ♕︎🫰https://www.facebook.com/profile.php?id=61566479789589💞🕊️
+🫰♕︎B̸O̸T̸ A̸D̸M̸I̸N̸ F̸A̸C̸E̸B̸O̸O̸K̸ A̸C̸C̸O̸U̸N̸T̸ L̸I̸N̸K̸ ♕︎🫰https://www.facebook.com/profile.php?id=100095704801667💞🕊️
 ══════════════════
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉@Zainijutt7 😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉@Malikg777😇
 ══════════════════
 ♥︎═════•❁❀❁•═════♥︎
 
 🌸𝔹𝕆𝕋 ℙℝ𝔼𝔽𝕀𝕏 🌸☞︎︎︎.☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️𝔹𝕆𝕋 𝕆𝕎ℕ𝔼ℝ♥️ ☞︎︎︎ᘔᗩIᑎ ᒍᑌTT☜︎︎︎✰ 
+♥️𝔹𝕆𝕋 𝕆𝕎ℕ𝔼ℝ♥️ ☞︎︎TOᗰᗩ ᗷᖇᗩᑎᗪ☜︎︎︎✰ 
 ❤︎═════•❁❀❁•═════❤︎
 
 ☞︎︎︎𝚄𝙿 𝚃𝙸𝙼𝙴 ☘︎⏳☘︎☜︎︎︎
@@ -61,7 +61,7 @@ ${hours}:${minutes}:${seconds}.
 
 🎀💞•••𝗛𝗲𝗿𝗲 𝗜𝘀 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲•••💖🌷
 ╔═══❖•ೋ° °ೋ•❖═══╗
-✨❤️‍🔥 𝒁𝑨𝑰𝑵 𝑱𝑼𝑻𝑻 ❤️‍🔥✨
+✨🩷𝙏𝙊𝙈𝘼 𝘽𝙍𝘼𝙉𝘿🩷🪽
 ╚═══❖•ೋ° °ೋ•❖═══╝
 
 
